@@ -7,6 +7,7 @@ make the best use of my skills and learn more.
 
 ###Skills:
 * ⚛️REACT
+* Next Ns
 * 💻 JS / HTML / CSS
 * 💻 Node Js
 
