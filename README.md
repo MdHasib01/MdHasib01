@@ -6,8 +6,8 @@ I am a proactive M.E.R.N Stack Developer fascinated by Web Technologies. I have 
 make the best use of my skills and learn more.
 
 ###Skills:
-* ⚛️REACT
-* Next Ns
+* ⚛️REACT JS
+* 💻Next JS
 * 💻 JS / HTML / CSS
 * 💻 Node Js
 
