@@ -6,10 +6,20 @@ I am a proactive M.E.R.N Stack Developer fascinated by Web Technologies. I have 
 make the best use of my skills and learn more.
 
 ###Skills:
-* ⚛️REACT JS
-* 💻Next JS
-* 💻 JS / HTML / CSS
-* 💻 Node Js
+* REACT JS⚛️
+* Next JS
+* jQuery
+* Redux Toolkit
+* JS / HTML / CSS
+* Node Js
+* Express JS
+* MongoDB
+* Firebase
+* Bootstrap, tailwind, MUI
+
+###Familiar with:
+* Typescript
+* React Native
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHasib01)](https://github.com/anuraghazra/github-readme-stats)
 
