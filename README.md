@@ -5,7 +5,7 @@
 I am a proactive M.E.R.N Stack Developer fascinated by Web Technologies. I have a deep interest in JavaScript and am looking for opportunities to
 make the best use of my skills and learn more.
 
-###Skills:
+### Skills:
 * REACT JS⚛️
 * Next JS
 * jQuery
@@ -17,7 +17,7 @@ make the best use of my skills and learn more.
 * Firebase
 * Bootstrap, tailwind, MUI
 
-###Familiar with:
+### Familiar with:
 * Typescript
 * React Native
 
