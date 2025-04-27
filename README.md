@@ -1,40 +1,118 @@
-### Hi there 👋, my name is Md Hasib
-#### I am MERN Stack web developer
-![I am MERN Stack web developer](https://media-exp1.licdn.com/dms/image/C4E16AQExiCgPXOcRtw/profile-displaybackgroundimage-shrink_350_1400/0/1638090324568?e=1654732800&v=beta&t=D0lva_9DKWdaFeis5Nv7v0_64D7zlT89oMJuxma7D8E)
 
-I am a proactive M.E.R.N Stack Developer fascinated by Web Technologies. I have a deep interest in JavaScript and am looking for opportunities to
-make the best use of my skills and learn more.
+# Hi there 👋 I'm **Md Hasib**
+### 💻 Full-Stack MERN Developer | Passionate Problem Solver
 
-### Skills:
-* REACT JS⚛️
-* Next JS
-* jQuery
-* Redux Toolkit
-* JS / HTML / CSS
-* Node Js
-* Express JS
-* MongoDB
-* Firebase
-* Bootstrap, tailwind, MUI
+---
 
-### Familiar with:
-* Typescript
-* React Native
+## 🚀 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHasib01)](https://github.com/anuraghazra/github-readme-stats)
+I’m a passionate **Full-Stack Developer** focused on building fast, responsive, and scalable web applications.  
+I specialize in the **MERN stack** and love learning and working with new technologies.  
+Always aiming to deliver clean, maintainable, and user-friendly software.
 
-- 🔭 I’m currently working on this page. 
+- 🔥 Strong foundation in **JavaScript**, **Node.js**, and **React.js**
+- 🎯 Interested in solving real-world problems with tech
+- 📚 Lifelong learner and tech enthusiast
 
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MdHasib01&show_icons=true)
+## 🛠️ Tech Stack
 
+<div align="center">
 
+<!-- Languages -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/GoLang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MdHasib01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-hasib01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdhasib.netlify.app/)
+<!-- Frontend -->
+<br />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Shadcn-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
+<!-- Backend -->
+<br />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-![GitHub metrics](https://metrics.lecoq.io/MdHasib01)
+<!-- Database -->
+<br />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
+<!-- ORMs/ODMs -->
+<br />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 
+<!-- DevOps -->
+<br />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MdHasib01)
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdHasib01&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdHasib01&show_icons=true&theme=radical) |
+|:---|:---|
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MdHasib01&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MdHasib01&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🧮 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdHasib01&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg' alt='GitHub' height='30'>](https://github.com/MdHasib01) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/md-hasib01/) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/internetarchive.svg' alt='Website' height='30'>](https://mdhasib.netlify.app/)
+
+---
+
+# 🚀 Let's Build the Future Together! 🚀
+
+---
+
+> **Now your README looks 🔥🔥 like a PRO developer!**
+
+---
+
+Would you also like me to give you the **final ready `.md` file**? 📄  
+(You can just upload it straight to GitHub, no need to copy-paste.) 🚀  
+Should I prepare that for you? 🎯
