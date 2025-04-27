@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MdHasib01&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
+---
 # Hi there 👋 I'm **Md Hasib**
 ### 💻 Full-Stack MERN Developer | Passionate Problem Solver
 
@@ -81,13 +85,7 @@ Always aiming to deliver clean, maintainable, and user-friendly software.
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MdHasib01&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🧮 Visitor Counter
 
